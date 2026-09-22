@@ -1,0 +1,180 @@
+{
+  "passed": true,
+  "checks": 115283,
+  "periods": 4661,
+  "lifeRuns": 24,
+  "coverage": {
+    "rows": 22280,
+    "universities": 753
+  },
+  "lives": [
+    {
+      "origin": "easy",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -21725.56,
+      "score": 390
+    },
+    {
+      "origin": "easy",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -7521.79,
+      "score": 390
+    },
+    {
+      "origin": "easy",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -3892.45,
+      "score": 384
+    },
+    {
+      "origin": "medium",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -21813.12,
+      "score": 389
+    },
+    {
+      "origin": "medium",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -7609.56,
+      "score": 389
+    },
+    {
+      "origin": "medium",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -3980.12,
+      "score": 383
+    },
+    {
+      "origin": "hard",
+      "pacing": "year",
+      "age": 97,
+      "wealth": 4732.25,
+      "score": 720
+    },
+    {
+      "origin": "hard",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -7679.55,
+      "score": 389
+    },
+    {
+      "origin": "hard",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -4050.05,
+      "score": 381
+    },
+    {
+      "origin": "draw",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -16879.19,
+      "score": 390
+    },
+    {
+      "origin": "draw",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -5448.21,
+      "score": 383
+    },
+    {
+      "origin": "draw",
+      "pacing": "year",
+      "age": 97,
+      "wealth": -4097.72,
+      "score": 384
+    },
+    {
+      "origin": "easy",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -4010.54,
+      "score": 363
+    },
+    {
+      "origin": "easy",
+      "pacing": "term",
+      "age": 97,
+      "wealth": 7772.54,
+      "score": 725
+    },
+    {
+      "origin": "easy",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -15908.5,
+      "score": 362
+    },
+    {
+      "origin": "medium",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -4265.08,
+      "score": 362
+    },
+    {
+      "origin": "medium",
+      "pacing": "term",
+      "age": 97,
+      "wealth": 7656.89,
+      "score": 723
+    },
+    {
+      "origin": "medium",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -16065.4,
+      "score": 361
+    },
+    {
+      "origin": "hard",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -4385.24,
+      "score": 361
+    },
+    {
+      "origin": "hard",
+      "pacing": "term",
+      "age": 97,
+      "wealth": 7607.38,
+      "score": 722
+    },
+    {
+      "origin": "hard",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -16134.32,
+      "score": 359
+    },
+    {
+      "origin": "draw",
+      "pacing": "term",
+      "age": 94,
+      "wealth": -650.64,
+      "score": 362
+    },
+    {
+      "origin": "draw",
+      "pacing": "term",
+      "age": 97,
+      "wealth": -15666.37,
+      "score": 363
+    },
+    {
+      "origin": "draw",
+      "pacing": "term",
+      "age": 95,
+      "wealth": -15410.11,
+      "score": 357
+    }
+  ]
+}

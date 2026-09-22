@@ -1,0 +1,14 @@
+{
+  "name": "kawaii-life",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Japanese yearly life-planning game for GitHub Pages",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "test": "node test-engine.cjs && node test-systems.cjs && node test-chapters.cjs && node test-v4.cjs",
+    "build": "node package.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

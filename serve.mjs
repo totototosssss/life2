@@ -1,0 +1,11 @@
+import http from 'node:http';
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const here=path.dirname(fileURLToPath(import.meta.url));
+const root=fs.existsSync(path.join(here,'index.html'))?here:path.resolve(here,'..');
+const dir=fs.existsSync(path.join(root,'dist/index.html'))?path.join(root,'dist'):root;
+const portIndex=process.argv.indexOf('--port');
+const port=Number(process.env.PORT||(portIndex>=0?process.argv[portIndex+1]:4173));
+const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.json':'application/json','.svg':'image/svg+xml','.md':'text/plain; charset=utf-8'};
+http.createServer((req,res)=>{try{let raw=decodeURIComponent(new URL(req.url,'http://local').pathname);let file=path.resolve(dir,'.'+raw);if(raw.endsWith('/'))file=path.join(file,'index.html');if(!file.startsWith(dir+path.sep)||!fs.existsSync(file)||fs.statSync(file).isDirectory()){res.writeHead(404);res.end('Not found');return;}res.setHeader('Content-Type',types[path.extname(file)]||'application/octet-stream');res.setHeader('Cache-Control','no-store');fs.createReadStream(file).pipe(res);}catch{res.writeHead(400);res.end('Bad request');}}).listen(port,'0.0.0.0',()=>console.log(`Kawaii Life preview listening on ${port}`));

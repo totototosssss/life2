@@ -1,0 +1,411 @@
+{
+  "checks": 7148,
+  "years": 2056,
+  "lifeRuns": 20,
+  "results": [
+    {
+      "seed": 0,
+      "age": 100,
+      "score": 371,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 1,
+      "age": 91,
+      "score": 375,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "classroom",
+        "club_life",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "workplace",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 2,
+      "age": 100,
+      "score": 372,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 3,
+      "age": 92,
+      "score": 382,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "crisis",
+        "loss",
+        "illness",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 4,
+      "age": 100,
+      "score": 376,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "classroom",
+        "club_life",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "workplace",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 5,
+      "age": 91,
+      "score": 373,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "friendship",
+        "club_life",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 6,
+      "age": 100,
+      "score": 734,
+      "rank": "B",
+      "end": null,
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "layoff",
+        "illness",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 7,
+      "age": 93,
+      "score": 725,
+      "rank": "B",
+      "end": "老衰",
+      "arcs": [
+        "classroom",
+        "club_life",
+        "friendship",
+        "disaster",
+        "crisis",
+        "layoff",
+        "loss",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 8,
+      "age": 100,
+      "score": 872,
+      "rank": "A",
+      "end": null,
+      "arcs": [
+        "club_life",
+        "friendship",
+        "workplace",
+        "illness",
+        "layoff",
+        "loss",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 9,
+      "age": 91,
+      "score": 369,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "classroom",
+        "bystander",
+        "friendship",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 2
+    },
+    {
+      "seed": 10,
+      "age": 100,
+      "score": 368,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "classroom",
+        "bystander",
+        "friendship",
+        "club_life",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 11,
+      "age": 91,
+      "score": 364,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "friendship",
+        "disaster",
+        "club_life",
+        "crisis",
+        "layoff",
+        "loss",
+        "workplace",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 12,
+      "age": 100,
+      "score": 369,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "friendship",
+        "club_life",
+        "disaster",
+        "crisis",
+        "caregiving_life",
+        "loss",
+        "workplace",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 13,
+      "age": 91,
+      "score": 670,
+      "rank": "B",
+      "end": "老衰",
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "illness",
+        "loss",
+        "layoff",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 14,
+      "age": 100,
+      "score": 365,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "classroom",
+        "friendship",
+        "club_life",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    },
+    {
+      "seed": 15,
+      "age": 91,
+      "score": 364,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "classroom",
+        "friendship",
+        "bystander",
+        "club_life",
+        "caregiving_life",
+        "crisis",
+        "workplace",
+        "loss",
+        "illness",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 16,
+      "age": 100,
+      "score": 382,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "club_life",
+        "bystander",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 17,
+      "age": 91,
+      "score": 373,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "disaster",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "illness",
+        "workplace",
+        "layoff",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 18,
+      "age": 100,
+      "score": 371,
+      "rank": "D",
+      "end": null,
+      "arcs": [
+        "bystander",
+        "club_life",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "secondact",
+        "illness"
+      ],
+      "harm": 0,
+      "repair": 14,
+      "friends": 3
+    },
+    {
+      "seed": 19,
+      "age": 91,
+      "score": 372,
+      "rank": "D",
+      "end": "老衰",
+      "arcs": [
+        "classroom",
+        "club_life",
+        "friendship",
+        "caregiving_life",
+        "crisis",
+        "loss",
+        "secondact"
+      ],
+      "harm": 0,
+      "repair": 0,
+      "friends": 3
+    }
+  ]
+}
